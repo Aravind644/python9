@@ -1,0 +1,2 @@
+# python9
+ABSTRACT CLASS
